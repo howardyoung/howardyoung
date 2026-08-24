@@ -5,6 +5,7 @@
 [![Patents](https://img.shields.io/badge/US%20Patents-6%20Issued-4338ca?style=flat-square)](https://howardyoung.tech/about/howard-young/patents/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2022--5666-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2022-5666)
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-howard--young--2-0288d1?style=flat-square)](https://www.crunchbase.com/person/howard-young-2)
+[![Wikidata](https://img.shields.io/badge/Wikidata-Q141169170-339966?style=flat-square&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141169170)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-ff9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://howardyoung.tech/about/howard-young/)
 
 > **American Inventor, Entrepreneur, and Technology Executive** based in Dothan, Alabama.  
@@ -67,6 +68,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **X (Twitter)** | [x.com/howard_o_young](https://x.com/howard_o_young) | Handle `@howard_o_young` |
 | **ORCID** | [0009-0005-2022-5666](https://orcid.org/0009-0005-2022-5666) | Academic & Researcher Persistent ID |
 | **Crunchbase** | [howard-young-2](https://www.crunchbase.com/person/howard-young-2) | Executive & Entrepreneur Profile |
+| **Wikidata** | [Q141169170](https://www.wikidata.org/wiki/Q141169170) | Open Knowledge Graph Machine Entity |
 | **YouTube** | [youtube.com/@howardyoung](https://www.youtube.com/@howardyoung) | Personal Channel |
 | **Facebook** | [facebook.com/howard.young.373452](https://www.facebook.com/howard.young.373452) | Personal Profile |
 | **about.me** | [about.me/howardyoung](https://about.me/howardyoung) | Executive Landing Page |
