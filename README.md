@@ -69,6 +69,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **Crunchbase** | [howard-young-2](https://www.crunchbase.com/person/howard-young-2) | Executive & Entrepreneur Profile |
 | **YouTube** | [youtube.com/@howardyoung](https://www.youtube.com/@howardyoung) | Personal Channel |
 | **Facebook** | [facebook.com/howard.young.373452](https://www.facebook.com/howard.young.373452) | Personal Profile |
+| **about.me** | [about.me/howardyoung](https://about.me/howardyoung) | Executive Landing Page |
 
 ---
 
