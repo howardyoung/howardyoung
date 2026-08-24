@@ -59,6 +59,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | :--- | :--- | :--- |
 | **Root Canonical Domain** | [howardyoung.co](https://howardyoung.co/) | Canonical Entity Origin (`#person`) |
 | **Corporate Website** | [howardyoung.tech](https://howardyoung.tech) | Howard Young Tech |
+| **GitHub Pages Site** | [howardyoung.github.io](https://howardyoung.github.io/) | Official GitHub Pages Profile |
 | **GitLab Pages Site** | [howardyoung.gitlab.io](https://howardyoung.gitlab.io/) | Official GitLab Pages Profile |
 | **LinkedIn** | [linkedin.com/in/howardy](https://www.linkedin.com/in/howardy/) | Verified Profile (`howardy`) |
 | **GitHub** | [github.com/howardyoung](https://github.com/howardyoung/) | Verified Profile (`@howardyoung`) |
@@ -67,6 +68,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **ORCID** | [0009-0005-2022-5666](https://orcid.org/0009-0005-2022-5666) | Academic & Researcher Persistent ID |
 | **Crunchbase** | [howard-young-2](https://www.crunchbase.com/person/howard-young-2) | Executive & Entrepreneur Profile |
 | **YouTube** | [youtube.com/@howardyoung](https://www.youtube.com/@howardyoung) | Personal Channel |
+| **Facebook** | [facebook.com/howard.young.373452](https://www.facebook.com/howard.young.373452) | Personal Profile |
 
 ---
 
