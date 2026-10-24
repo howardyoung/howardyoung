@@ -69,6 +69,8 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **ORCID** | [0009-0005-2022-5666](https://orcid.org/0009-0005-2022-5666) | Academic & Researcher Persistent ID |
 | **Crunchbase** | [howard-young-2](https://www.crunchbase.com/person/howard-young-2) | Executive & Entrepreneur Profile |
 | **Wikidata** | [Q141169170](https://www.wikidata.org/wiki/Q141169170) | Open Knowledge Graph Machine Entity |
+| **Google Knowledge Graph** | [/g/11zf5vpx2](https://www.google.com/search?kgmid=/g/11zf5vpx2) | Google Knowledge Graph Machine ID (KGMID) |
+| **Google Profile** | [profile.google.com](https://profile.google.com/cp/Cg0vZy8xMXpmNXZweDJ4) | Google Entity Profile (`/g/11zf5vpx2`) |
 | **YouTube** | [youtube.com/@howardyoung](https://www.youtube.com/@howardyoung) | Personal Channel |
 | **Facebook** | [facebook.com/howard.young.373452](https://www.facebook.com/howard.young.373452) | Personal Profile |
 | **about.me** | [about.me/howardyoung](https://about.me/howardyoung) | Executive Landing Page |
