@@ -69,6 +69,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **X (Twitter)** | [x.com/howard_o_young](https://x.com/howard_o_young) | Handle `@howard_o_young` |
 | **ORCID** | [0009-0005-2022-5666](https://orcid.org/0009-0005-2022-5666) | Academic & Researcher Persistent ID |
 | **Google Scholar** | [6ThdN5QAAAAJ](https://scholar.google.com/citations?user=6ThdN5QAAAAJ) | Scholar Profile (6 patents indexed) |
+| **Google Site** | [sites.google.com/view/howardoyoung](https://sites.google.com/view/howardoyoung/home) | Academic-style Profile & Publications |
 | **Crunchbase** | [howard-young-2](https://www.crunchbase.com/person/howard-young-2) | Executive & Entrepreneur Profile |
 | **Wikidata** | [Q141169170](https://www.wikidata.org/wiki/Q141169170) | Open Knowledge Graph Machine Entity |
 | **Google Knowledge Graph** | [/g/11zf5vpx2x](https://www.google.com/search?kgmid=/g/11zf5vpx2x) | Google Knowledge Graph Machine ID (KGMID) |
