@@ -4,6 +4,7 @@
 [![Company](https://img.shields.io/badge/Company-Howard%20Young%20Tech-0f172a?style=flat-square)](https://howardyoung.tech)
 [![Patents](https://img.shields.io/badge/US%20Patents-6%20Issued-4338ca?style=flat-square)](https://howardyoung.tech/about/howard-young/patents/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2022--5666-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2022-5666)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-6ThdN5QAAAAJ-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6ThdN5QAAAAJ)
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-howard--young--2-0288d1?style=flat-square)](https://www.crunchbase.com/person/howard-young-2)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141169170-339966?style=flat-square&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141169170)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-ff9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://howardyoung.tech/about/howard-young/)
@@ -67,6 +68,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **GitLab** | [gitlab.com/howardyoung](https://gitlab.com/howardyoung) | Verified Profile (`@howardyoung`) |
 | **X (Twitter)** | [x.com/howard_o_young](https://x.com/howard_o_young) | Handle `@howard_o_young` |
 | **ORCID** | [0009-0005-2022-5666](https://orcid.org/0009-0005-2022-5666) | Academic & Researcher Persistent ID |
+| **Google Scholar** | [6ThdN5QAAAAJ](https://scholar.google.com/citations?user=6ThdN5QAAAAJ) | Scholar Profile (6 patents indexed) |
 | **Crunchbase** | [howard-young-2](https://www.crunchbase.com/person/howard-young-2) | Executive & Entrepreneur Profile |
 | **Wikidata** | [Q141169170](https://www.wikidata.org/wiki/Q141169170) | Open Knowledge Graph Machine Entity |
 | **Google Knowledge Graph** | [/g/11zf5vpx2x](https://www.google.com/search?kgmid=/g/11zf5vpx2x) | Google Knowledge Graph Machine ID (KGMID) |
