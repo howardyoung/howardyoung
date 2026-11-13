@@ -67,6 +67,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **GitHub** | [github.com/howardyoung](https://github.com/howardyoung/) | Verified Profile (`@howardyoung`) |
 | **GitLab** | [gitlab.com/howardyoung](https://gitlab.com/howardyoung) | Verified Profile (`@howardyoung`) |
 | **X (Twitter)** | [x.com/howard_o_young](https://x.com/howard_o_young) | Handle `@howard_o_young` |
+| **Instagram** | [instagram.com/howard.o.young](https://www.instagram.com/howard.o.young/) | Handle `@howard.o.young` |
 | **ORCID** | [0009-0005-2022-5666](https://orcid.org/0009-0005-2022-5666) | Academic & Researcher Persistent ID |
 | **Google Scholar** | [6ThdN5QAAAAJ](https://scholar.google.com/citations?user=6ThdN5QAAAAJ) | Scholar Profile (6 patents indexed) |
 | **Google Site** | [sites.google.com/view/howardoyoung](https://sites.google.com/view/howardoyoung/home) | Academic-style Profile & Publications |
@@ -77,6 +78,7 @@ Young holds **six US Patents** issued between 2012 and 2013:
 | **YouTube** | [youtube.com/@howardyoung](https://www.youtube.com/@howardyoung) | Personal Channel |
 | **Facebook** | [facebook.com/howard.young.373452](https://www.facebook.com/howard.young.373452) | Personal Profile |
 | **about.me** | [about.me/howardyoung](https://about.me/howardyoung) | Executive Landing Page |
+| **Blogger** | [blogger.com/profile/07555247780657613552](https://www.blogger.com/profile/07555247780657613552) | Blogger Profile (since 2004) |
 
 ---
 
